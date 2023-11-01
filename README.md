@@ -141,7 +141,7 @@ endmodule
 <details>
   <summary>Detail</summary>
 
-  > [Update ~5 references in order](https://www.youtube.com/watch?v=TGinzvSDayU
+  >(https://www.youtube.com/watch?v=TGinzvSDayU
 https://sumsub.com/blog/arbitrage-gambling/
 https://www.sbo.net/strategy/arbitrage-betting/
 https://arbitragecalc.com/
