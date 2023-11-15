@@ -61,7 +61,9 @@ If the bet is an arbitrage bet, then we will be guaranteed to make a profit no m
 <details>
   <summary>Detail</summary>
 
-  > ![(snapshots/)]
+  > ![snap 1](snapshots/logisim_snapshot_1.jpeg)
+  > ![snap 1](snapshots/logisim_snapshot_2.jpeg)
+  > ![snap 1](snapshots/logisim_snapshot_3.jpeg)
 </details>
 
 <!-- Fifth Section -->
